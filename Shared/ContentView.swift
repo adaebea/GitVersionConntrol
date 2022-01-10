@@ -26,3 +26,5 @@ struct ContentView_Previews: PreviewProvider {
 //Comolicated Function
 
 //Important Project. Saved on Github
+
+//Stable Version
